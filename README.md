@@ -4,14 +4,13 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 ## *About Me*
 
-I am a graduate Data Science student at the University of Washington. I happen to posses the skillset of a backend developer with my primary aim in Data Science and Machine Learning .
+I am a graduate student studying Data Science at the University of Washington, with a focus on Machine Learning. My skillset extends beyond backend development and computer science fundamentals to include expertise in machine learning and deep learning.
 
-I stumbled across python few years ago and since then I have fallen in love with the language and programming itself. From simple if else statements to advanced concepts of oops , from simple programs of python to making advanced projects in python , I have thoroughly enjoyed programming and I am proud of it . 
+I discovered Python a few years ago and have since developed a passion for programming. I enjoy working on everything from simple if-else statements to advanced object-oriented programming concepts. I take pride in my ability to create both simple and advanced projects using Python.
 
-I also have the required knowledge of frontend like html,css and have worked with various frameworks like Bootstrap for creating responsive webpages and **flask** which is the web framework in python . All this knowledge has helped me in creating some simple , some complex **machine learning models** and displaying them over the web pages . 
+I have a solid understanding of front-end web development technologies, including HTML, CSS, and the Bootstrap framework. I have also used the **Flask** web framework to build responsive web pages. I have leveraged this knowledge to build both simple and complex machine learning models, and to display them effectively on the web.
 
-My machine learning knowlege consists of both supervised and unsupersvised machine learning , from using simple **linear regression** to using **Ensembling techniques** consisting of **bagging,boosting and stacking** , using XGboost in some models while making clusters using k-means with some other models, i have a good knowledge
-of machine learning projects , I can say that i am ready to work in any given domain , thinking of new Ideas to solve problems with ML.
+My expertise in machine learning covers both supervised and unsupervised techniques. I have experience using simple **linear regression** as well as more advanced **Ensemble techniques** such as **bagging, boosting, and stacking**. I have also worked with XGBoost in some models, and have used k-means clustering in others. I feel well-equipped to work on machine learning projects in any domain, and am always eager to come up with new ideas to solve problems using ML.
 
 
  ## - 👀  *I’m interested in* ...
@@ -27,16 +26,16 @@ of machine learning projects , I can say that i am ready to work in any given do
        - Natural Language Processing  
        
        
- ## - 💪 *Skills*  ...
-       -Python / Flask  / HTML / CSS / Bootstrap / SQLite and mongoDB / Numpy /Pandas / Sklearn / Matplotlib/ PyTorch 
-    
-       
+ ## - 💪 *Tech Stacks*  ...
+       - Web Development: Python / Flask / HTML / CSS / Bootstrap / SQLite and mongoDB / Jinja
+       - Data Science: Python / Numpy /Pandas / Matplotlib / Sklearn / PyTorch / Tableau 
+   
  
  ## - 💞️ *I’m looking to collaborate on* ...
       -Machine learning projects 
+      -Website development through frameworks
       -Data analysis
       -Business stratigies
-      -Website development through frameworks
       -Automation testing through python
   
  ## - 📫 How to reach me at: <a href="lluan@uw.edu">lluan@uw.edu</a>
@@ -44,7 +43,3 @@ of machine learning projects , I can say that i am ready to work in any given do
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitsadwal)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!---
-shobhitsadwal/shobhitsadwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
